@@ -20,5 +20,17 @@ The task will be evaluated using accuracy.
 # Citation
 If you find this project helpful, you can cite:
 
+Is this sentence valid? An Arabic Dataset for Commonsense Validation
+https://arxiv.org/abs/2008.10873
+
+@misc{tawalbeh2020sentence,
+    title={Is this sentence valid? An Arabic Dataset for Commonsense Validation},
+    author={Saja Tawalbeh and Mohammad AL-Smadi},
+    year={2020},
+    eprint={2008.10873},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+
 # License
 The dataset is distributed under the CC BY-SA 4.0 license.
